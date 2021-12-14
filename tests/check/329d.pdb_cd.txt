@@ -1,0 +1,6 @@
+# PDBMD2CD Standalone
+# E.D. Drew and R.W. Janes
+# https://doi.org/10.1093/nar/gkaa296
+# 21-09-10, 14:13:32
+# Wavelength (nm)	Predicted CD signal (delta epsilon)
+Calculation Failed
